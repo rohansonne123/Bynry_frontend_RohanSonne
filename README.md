@@ -4,8 +4,6 @@ Profile Viewing Web Application
 📌 Project Overview
 This project is a React-based Profile Viewing Web Application that allows users to view, search, filter, and manage profiles with an interactive Mapbox-powered map. Admins can add, edit, or delete profiles dynamically.
 
-📷 Demo Screenshot
-(Add a screenshot or GIF of your project here)
 
 ✨ Features
 ✅ Profile Management – View, search, and filter profiles.
@@ -23,10 +21,6 @@ Map Integration: Mapbox (react-map-gl)
 
 State Management: React Context API
 
-Backend (if applicable): Node.js, Express.js
-
-Database (if applicable): MongoDB / Firebase
-
 🔧 Installation & Setup
 1️⃣ Prerequisites
 Ensure you have the following installed:
@@ -41,7 +35,7 @@ Mapbox API Key (if using Mapbox)
 sh
 Copy
 Edit
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/rohansonne123/Bynry_frontend_RohanSonne
 cd your-repo-name
 3️⃣ Install Dependencies
 sh
@@ -77,8 +71,7 @@ Copy
 Edit
 📁 myapp
 │── 📂 src
-│   ├── 📂 components      # Reusable React components
-│   ├── 📂 pages           # Page components (Home, Profile Details, Admin)
+│   ├── 📂 components      # Reusable React components          
 │   ├── 📂 styles          # CSS files
 │   ├── 📂 api             # API requests
 │   ├── App.js            # Main React component
@@ -94,12 +87,10 @@ Implement a backend API
 Enhance UI animations
 
 🏆 Contributors
-👤 Your Name
-📧 Email: your.email@example.com
-🔗 LinkedIn | GitHub
+👤 Rohan Tanaji Sonne
+📧 Email: rohansonne123@gmail.com
 
 💖 Support & Feedback
-If you find this project useful, ⭐ star the repository and share your feedback! 🚀
 
 This README is well-structured, professional, and covers all key details. Let me know if you want any modifications! 🚀🔥
 
